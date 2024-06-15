@@ -11,5 +11,5 @@ def reverse_integer(number):
     return reversed_number
 
 # I then tested the string to accertain my solution
-print(reverse_integer(50))   # expected output: 5
-print(reverse_integer(-12))  # expected output: -21
+print(reverse_integer(50))   
+print(reverse_integer(-12))  
